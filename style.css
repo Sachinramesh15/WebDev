@@ -1,0 +1,46 @@
+.d-block{
+    border-radius: 10px;
+}
+.background{
+    background-image: linear-gradient(to right,#78C1F3,#9BE8D8);
+}
+#img{
+    background-color: antiquewhite;
+    border-radius: 50%;
+}
+#food1{
+    float: left;
+    margin: 10px;
+    position: relative;
+    border-radius: 20px;
+    height: 300px;
+    width:350px
+}
+.header{
+    clear:both;
+}
+
+#food2{
+    float:right;
+    margin: 10px;
+    position: relative;
+    border-radius: 20px;
+    height: 300px;
+    width:350px;
+}
+#food3{
+    float:left;
+    margin: 10px;
+    position: relative;
+    border-radius: 20px;
+    height: 300px;
+    width:400px;
+}
+body{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+.footer{
+    margin-top: 100px;
+    clear:both;
+}
